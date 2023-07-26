@@ -13,6 +13,6 @@
 
 ## Используемые технологии
 
-* [Rust](https://www.rust-lang.org/ru/) - язык программирования;
+* [rust](https://www.rust-lang.org/ru/) - язык программирования;
 * [colored](https://github.com/colored-rs/colored) - Раскраска терминала в Rust;
 * [chrono](https://github.com/chronotope/chrono) - Библиотека даты и времени для Rust;
